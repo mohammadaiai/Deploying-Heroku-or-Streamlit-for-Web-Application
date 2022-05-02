@@ -16,4 +16,4 @@ To use Streamlit for deploying your application, you need these files:
 2. **reqirements.txt** --> The libraries used in your application
 3. **packages.txt** --> Sometimes, you may need these packages for deploying image classification applications (My personal experience).
 
-After uploading the files in your repo, you have to create a Streamlit account (if you do not have one) and connect it to your GitHub repo and select the app.py file for deployment. Note that the program has to be programmed in the Streamlit Python library, which is desinged for creating ML/DL applications.
+Note that the files are case-sensitive and have to be as presented above (except the app.py file). The example files are available in the **Streamlit folder** in this repo. After uploading the files in your repo, you have to create a Streamlit account (if you do not have one) and connect it to your GitHub repo and select the app.py file for deployment. Note that the program has to be programmed in the Streamlit Python library, which is desinged for creating ML/DL applications.
