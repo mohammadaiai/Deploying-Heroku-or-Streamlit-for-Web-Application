@@ -3,7 +3,7 @@ This repository provides the instructions on how to deploy your Machine Learning
 ## Heroku
 To use Heroku for creating ML/DL web applications, you need these files:
 1. **app.py** --> Your application file 
-2. **Reqirements.txt** --> The libraries used in your application file.
+2. **Reqirements.txt** --> The libraries used in your application
 3. **Procfile**
 4. **setup.sh**
 
